@@ -1,2 +1,1 @@
-# AStrelaPathFinding_Lua
-PathFidind em .lua
+# A_StrelaPathFinding
